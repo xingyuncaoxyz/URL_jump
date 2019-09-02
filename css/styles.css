@@ -285,16 +285,16 @@ h1 {
   z-index: 1;
   opacity: 0.5; }
   .header-container .bcg {
-    background: #31eaac url(../img/pg01.jpg);
+    background: #31eaac url(https://w.wallhaven.cc/full/43/wallhaven-43egv0.jpg);/*../img/pg01.jpg*/
     background-size: cover; }
   #slide01 .bcg {
-    background: #5679f9 url(../img/pg02.jpg) no-repeat center center;
+    background: #5679f9 url(https://w.wallhaven.cc/full/q6/wallhaven-q6mg5d.jpg) no-repeat center center;
     background-size: cover; }
   #slide02 .bcg {
-    background: #f5931a url(../img/pg03.jpg) no-repeat center center;
+    background: #f5931a url(https://w.wallhaven.cc/full/4d/wallhaven-4dljd3.jpg) no-repeat center center;
     background-size: cover; }
   #slide03 .bcg {
-    background: #b736f9 url(../img/pg04.jpg) no-repeat center center;
+    background: #b736f9 url(https://w.wallhaven.cc/full/73/wallhaven-73wzx3.jpg) no-repeat center center;
     background-size: cover;
     opacity: 0.7; }
 
