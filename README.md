@@ -1,2 +1,2 @@
-# xingyuncaoxyz.github.io
+# xingyuncao.xyz
 web home
